@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Saqib Hussain</h1>
+<!-- <h1 align="center">Hi 👋, I'm Saqib Hussain</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Web+Developer;YOLO+%7C+MedSAM+Expert;React+Frontend+Developer;Building+NextGen+Diagnostics" />
 </p>
+
+
+ye perfect ha lekin
 
 >
 
@@ -65,4 +68,70 @@ Specializing in **Deep Learning** and **Modern Web Architectures**. Currently fo
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Saqib776&label=VISITS&color=00f7ff&style=flat-square" />
+</p> -->
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Saqib Hussain</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Web+Developer;YOLO+%7C+MedSAM+Expert;React+Frontend+Developer;Building+NextGen+Diagnostics" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+<p align="center">
+
+| Project | Description | Repository |
+|---------|-------------|------------|
+| 🤖 **YOLO + MedSAM Cancer Detection** | Hybrid AI pipeline for ULMS cancer detection | [View Repo](https://github.com/Saqib776/yolo-medsam-hybrid) |
+| 🔬 **ULMS Detection System** | NextGen Diagnostics system for automated medical screening | [View Repo](https://github.com/Saqib776) |
+| 🚗 **Car Detection & Tracking** | YOLOv11 object detection & tracking for vehicles | [View Repo](https://github.com/Saqib776) |
+| 🌐 **React Portfolio Website** | Interactive personal portfolio website | [View Repo](https://github.com/Saqib776/saqib-portfolio) |
+
+</p>
+
+---
+
+### 🚀 Overview
+
+I specialize in bridging the gap between **Deep Learning** and **Modern Web Architectures**, focusing on high-precision medical imaging and interactive web applications.
+
+* 🤖 **AI:** YOLOv11 & MedSAM Hybrid Pipelines  
+* 🌐 **Web:** React, Three.js, GSAP  
+* 🔬 **Research:** Automated ULMS Diagnostics  
+
+---
+
+### 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,js,python,pytorch,flask,opencv,git,github,vscode,postman" />
+</p>
+
+---
+
+### 📊 Developer Dashboard
+<div align="center">
+
+| GitHub Stats       |     Languages & Activity |
+|:------------:                  |:-----------------:|
+
+| <img src="https://streak-stats.demolab.com/?user=Saqib776&theme=tokyonight&hide_border=true&background=0D1117&sideNums=00F7FF&stroke=00F7FF&fire=00F7FF" width="400" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saqib776&bg_color=0D1117&color=00F7FF&line=00F7FF&point=C9D1D9&area=true&hide_border=true&hide_header=true" width="300" /> |
+
+</div>
+
+---
+
+### 📬 Connect With Me
+<p align="center">
+  <a href="mailto:Saqib.954819@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/saqib-hussain">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
 </p>
