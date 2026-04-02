@@ -4,9 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Web+Developer;YOLO+%7C+MedSAM+Expert;React+Frontend+Developer;Building+NextGen+Diagnostics" />
 </p>
 
+>
+
 ---
 
 ### 🚀 Overview
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpobjZidmticXpobjZidmticXpobjZidmticXpobjZidmticXpobjZidmZ&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 Specializing in **Deep Learning** and **Modern Web Architectures**. Currently focused on high-precision medical imaging and interactive user experiences.
 
 * 🤖 **AI:** Developing hybrid pipelines with **YOLOv11** and **MedSAM**.
@@ -24,23 +28,26 @@ Specializing in **Deep Learning** and **Modern Web Architectures**. Currently fo
 
 ### 🛠️ Featured Projects
 
-| Project | Description | Preview | Link |
-|---------|-------------|---------|-----------|
-| 🤖 **YOLO + MedSAM** | Hybrid AI pipeline for cancer detection | ![Demo](https://img.shields.io/badge/AI-Model-00F7FF) | [Repo](https://github.com/Saqib776/yolo-medsam-hybrid) |
-| 🔬 **ULMS System** | NextGen Diagnostics for automated screening | ![Demo](https://img.shields.io/badge/Medical-AI-white) | [Repo](https://github.com/Saqib776) |
-| 🚗 **Car Detection** | YOLOv11 object detection & tracking | ![Demo](https://img.shields.io/badge/Vision-CV-00F7FF) | [Repo](https://github.com/Saqib776) |
-| 🌐 **3D Portfolio** | Interactive personal portfolio website | ![Preview](https://img.shields.io/badge/Web-3D-white) | [Repo](https://github.com/Saqib776) |
+| Project | Description | Link |
+|---------|-------------|------|
+| 🤖 **YOLO + MedSAM** | Hybrid AI pipeline for cancer detection | [Repo](https://github.com/Saqib776/yolo-medsam-hybrid) |
+| 🔬 **ULMS System** | NextGen Diagnostics for automated screening | [Repo](https://github.com/Saqib776) |
+| 🚗 **Car Detection** | YOLOv11 object detection & tracking | [Repo](https://github.com/Saqib776) |
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Developer Dashboard
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saqib776&bg_color=0D1117&color=00F7FF&line=00F7FF&point=C9D1D9&area=true&hide_border=true&hide_header=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Saqib776&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saqib776&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib776&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib776&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib776&theme=tokyonight&hide_border=true&background=0D1117&sideNums=00F7FF&stroke=00F7FF&fire=00F7FF" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saqib776&bg_color=0D1117&color=00F7FF&line=00F7FF&point=C9D1D9&area=true&hide_border=true&hide_header=true" />
 </p>
 
 ---
