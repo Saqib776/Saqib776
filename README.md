@@ -8,29 +8,25 @@
 
 ### 🚀 Featured Projects
 
-- 🤖 **AI-based Cancer Detection (YOLO + MedSAM)**  
-  🔗 [GitHub Repo](https://github.com/Saqib776/yolo-medsam-hybrid)  
-
-- 🔬 **ULMS Detection System (NextGen Diagnostics)**  
-  🔗 [GitHub Repo](https://github.com/Saqib776)  
-
-- 🚗 **Car Detection & Tracking (YOLOv11)**  
-  🔗 [GitHub Repo](https://github.com/Saqib776)  
-
-- 🌐 **React Portfolio / Web Projects**  
-  🔗 [GitHub Repo](https://github.com/Saqib776)  
+| Project | Description | Preview | Repo Link |
+|---------|-------------|---------|-----------|
+| 🤖 **YOLO + MedSAM** | Hybrid AI pipeline for ULMS cancer detection | ![Demo](https://raw.githubusercontent.com/Saqib776/yolo-medsam-hybrid/main/images/demo.gif) | [Repo](https://github.com/Saqib776/yolo-medsam-hybrid) |
+| 🔬 **ULMS System** | NextGen Diagnostics for automated screening | ![Demo](https://raw.githubusercontent.com/Saqib776/ULMS-Detection-System/main/images/demo.gif) | [Repo](https://github.com/Saqib776) |
+| 🚗 **Car Detection** | YOLOv11 object detection & tracking | ![Demo](https://raw.githubusercontent.com/Saqib776/car-detection/main/images/demo.gif) | [Repo](https://github.com/Saqib776) |
+| 🌐 **3D Portfolio** | Interactive personal portfolio website | ![Preview](https://raw.githubusercontent.com/Saqib776/saqib-portfolio/main/images/portfolio-preview.gif) | [Repo](https://github.com/Saqib776) |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saqib776&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib776&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saqib776&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib776&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saqib776&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=C9D1D9&area=true&hide_header=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saqib776&bg_color=0D1117&color=00F7FF&line=00F7FF&point=C9D1D9&area=true&hide_border=true&hide_header=true" />
 </p>
 
 ---
