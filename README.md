@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Overview
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpobjZidmticXpobjZidmticXpobjZidmticXpobjZidmticXpobjZidmZ&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 
 Specializing in **Deep Learning** and **Modern Web Architectures**. Currently focused on high-precision medical imaging and interactive user experiences.
 
@@ -30,7 +30,7 @@ Specializing in **Deep Learning** and **Modern Web Architectures**. Currently fo
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🤖 **YOLO + MedSAM** | Hybrid AI pipeline for cancer detection | [Repo](https://github.com/Saqib776/yolo-medsam-hybrid) |
+| 🤖 **YOLO + MedSAM** | Hybrid AI pipeline for cancer detection | [Repo]([https://github.com/Saqib776/yolo-medsam-hybrid](https://saqib776.github.io/yolo-medsam-hybrid/)) |
 | 🔬 **ULMS System** | NextGen Diagnostics for automated screening | [Repo](https://github.com/Saqib776) |
 | 🚗 **Car Detection** | YOLOv11 object detection & tracking | [Repo](https://github.com/Saqib776) |
 
